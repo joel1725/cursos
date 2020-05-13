@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.banner{
+    position: relative;
+    float: left;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(139,82,168,1);
+    background: -moz-linear-gradient(-45deg, rgba(139,82,168,1) 0%, rgba(230,62,139,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(139,82,168,1)), color-stop(100%, rgba(230,62,139,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(139,82,168,1) 0%, rgba(230,62,139,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(139,82,168,1) 0%, rgba(230,62,139,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(139,82,168,1) 0%, rgba(230,62,139,1) 100%);
+    background: linear-gradient(135deg, rgba(139,82,168,1) 0%, rgba(230,62,139,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b52a8', endColorstr='#e63e8b', GradientType=1 );
+} 
+#menuPrincipal{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 55px;
+    background-color: blue;
+}
+.autor{
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.menu{
+    float: right;
+    height: 55px;
+    margin-left: 25px;
+    margin-right: 25px;
+}

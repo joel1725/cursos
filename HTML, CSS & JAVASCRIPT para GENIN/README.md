@@ -13,7 +13,8 @@ Para ver el tutorial accede a este [video en youtube](https://www.youtube.com/pl
 
 * Modulo 1 - 🎓Curso HTML, CSS & JAVASCRIPT desde CERO!!: posee una carpeta llamada *recursos* donde se encuentran los elementos que usaremos durante todo el curso. [video](https://www.youtube.com/watch?v=0aSzA5FGWJo)
 * Modulo 2 - Estructura tu sitio web (El principio): indicamos como estructurar los archivos para el desarrollo de tu sition web, una buena estructura es igual a un buen desarrollo (casi siempre).[video](https://www.youtube.com/watch?v=2aLW-U3VkrU)
-* Modulo 3 - Tutorial HTML en ESPAÑOL en 15 MINUTOS (Saber HTML): iniciamos con la enseñanza de HTML basico. [video](https://www.youtube.com/watch?v=hRAuOtbzrUo)
+* Modulo 3 - Tutorial HTML en ESPAÑOL en 15 MINUTOS (Saber HTML): iniciamos con la enseñanza de HTML básico. [video](https://www.youtube.com/watch?v=hRAuOtbzrUo)
+* Modulo 4 - CURSO tutorial CSS desde CERO - 1 (Me guta CSS): iniciamos con la enseñanza de CSS básico. [video](https://youtu.be/lNl7SfvZv3I)
 
 ## Autor ✒️
 
